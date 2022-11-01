@@ -2,7 +2,7 @@
 
 <br>
 
-### I am currently a student at App Academy and have learned some cool things.
+### I am currently a student at App Academy and learned some cool things.
 
 <br>
 
