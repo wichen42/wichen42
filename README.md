@@ -2,11 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=240000&color=9878B7&width=850&height=75&lines=I+am+currently+a+student+at+App+Academy+and+learned+some+cool+things.)](https://git.io/typing-svg)
 
-#### You can also find me on [LinkedIn](https://www.linkedin.com/in/wchen42/) or [AngelList](https://angel.co/u/wilson-chen-19).
 
 <br>
 
 ![image (7)](https://user-images.githubusercontent.com/103459101/199317456-237ddc04-105c-472c-8335-4a3bee3696bc.png)
+
+<br>
+
+### You can also find me on [LinkedIn](https://www.linkedin.com/in/wchen42/) or [AngelList](https://angel.co/u/wilson-chen-19).
 
 <br>
 
