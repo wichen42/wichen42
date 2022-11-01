@@ -1,5 +1,4 @@
-## Hi there, my name is Wilson and I am a software engineer. 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=9878B7&width=590&lines=Hi+my+name+is+Wilson%2C+I+am+a+software+engineer.)](https://git.io/typing-svg)
 
 ### I am currently a student at App Academy and learned some cool things.
 
