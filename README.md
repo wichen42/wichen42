@@ -14,5 +14,13 @@
 
 
 <div>
-<a href="https://github.com/sungyotkim/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Cubberd&theme=midnight-purple&show_icons=true&" alt="CubberdApp"></a>
+<a href="https://github.com/whilekofman/aviquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=whilekofman&repo=aviquest&theme=buefy&show_icons=true&" alt="AviquestApp"></a>
+</div>
+
+<div>
+<a href="https://github.com/wichen42/Cloud-Tunes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wichen42&repo=Cloud-Tunes&theme=buefy&show_icons=true&" alt="CloudTunesApp"></a>
+</div>
+
+<div>
+<a href="https://github.com/wichen42/Interactive-Character-Sheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wichen42&repo=Interactive-Character-Sheet&theme=buefy&show_icons=true&" alt="RPGCharacterSheetApp"></a>
 </div>
