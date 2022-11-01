@@ -1,4 +1,4 @@
-## Hi there, my name is Wilson and I am an aspiring software engineer. 
+## Hi there, my name is Wilson and I am a software engineer. 
 
 
 ### I am currently a student at App Academy and learned some cool things.
@@ -28,15 +28,17 @@
     <a href="https://github.com/wichen42/Interactive-Character-Sheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wichen42&repo=Interactive-Character-Sheet&theme=buefy&show_icons=true&" alt="RPGCharacterSheetApp"></a>
   </div>
 </div>
-   
+ 
+### Here are some stats
+<div>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wichen42&show_icons=true&swift&layout=compact" alt="wilsonchen" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wichen42&theme=swift" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=wichen42&theme=swift" /></p>
+</div>
+  
 </div>
 
-### Here are some stats
 
-<div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wichen42&show_icons=true&swift&layout=compact" alt="wilsonchen" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wichen42&theme=swift" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=wichen42&theme=swift" /></p>
-  </div>
+
 
 
