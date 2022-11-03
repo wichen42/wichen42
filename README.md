@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DE6FFF&multiline=true&width=600&height=150&lines=Hi+there%2C+my+name+is+Wilson.++;I+am+a+Software+Engineer.+;Here+are+some+cool+thing's+I've+learned.)](https://git.io/typing-svg)
 
-<br>
-
 ![image (7)](https://user-images.githubusercontent.com/103459101/199317456-237ddc04-105c-472c-8335-4a3bee3696bc.png)
 
 <br>
