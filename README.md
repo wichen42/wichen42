@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=9878B7&width=650&height=75&lines=Hi+my+name+is+Wilson%2C+I+am+a+Software+Engineer.)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=240000&color=9878B7&width=850&height=75&lines=I+am+currently+a+student+at+App+Academy+and+learned+some+cool+things.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DE6FFF&multiline=true&width=600&height=150&lines=Hi+there%2C+my+name+is+Wilson.++;I+am+a+Software+Engineer.+;Here+are+some+cool+thing's+I've+learned.)](https://git.io/typing-svg)
 
 <br>
 
