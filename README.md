@@ -14,6 +14,10 @@
 
 <div>
   <div>
+    <a href="https://github.com/wichen42/star_rail_messenger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wichen42&repo=star_rail_messenger&theme=buefy&show_icons=true&" alt="StarRailMessengerApp"></a>
+  </div>
+  
+  <div>
     <a href="https://github.com/wichen42/aviquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wichen42&repo=aviquest&theme=buefy&show_icons=true&" alt="AviquestApp"></a>
   </div>
 
